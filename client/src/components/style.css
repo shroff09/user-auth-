@@ -1,0 +1,9 @@
+.Profile{
+    border-width: 5px;
+ border-color: black;
+ border-radius: 25%;
+}
+
+#name{
+    color: blue;
+}
